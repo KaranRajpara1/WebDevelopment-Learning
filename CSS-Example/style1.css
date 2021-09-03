@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: blue;
+    text-transform: uppercase;
+}
+#myId{
+    color: darkcyan;
+}
+.myClass{
+    color: darkorchid;
+}
+tr{
+    background-color: violet;
+}
+th{
+    background-color: turquoise;
+}
